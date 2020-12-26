@@ -4,7 +4,9 @@
   "description": "Using KNN algorithm, tensorflow.js library and house data built an app that can predict house price based on features like longitude, latitude, size and etc",
   "main": "index.js",
   "dependencies": {
-    "@tensorflow/tfjs": "^2.7.0"
+    "@tensorflow/tfjs": "^2.7.0",
+    "lodash": "^4.17.20",
+    "shuffle-seed": "^1.1.6"
   },
   "devDependencies": {},
   "scripts": {
