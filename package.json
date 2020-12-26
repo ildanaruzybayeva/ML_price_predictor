@@ -1,0 +1,24 @@
+{
+  "name": "ML_price_predictor",
+  "version": "1.0.0",
+  "description": "Using KNN algorithm, tensorflow.js library and house data built an app that can predict house price based on features like longitude, latitude, size and etc",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ildanaruzybayeva/ML_price_predictor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ildanaruzybayeva/ML_price_predictor/issues"
+  },
+  "homepage": "https://github.com/ildanaruzybayeva/ML_price_predictor#readme"
+}
